@@ -4,7 +4,7 @@ This is a stylized procedural planet generator written in Godot 3.0. It creates 
 
 ![demo](images/demo.gif)
 
-I'll upload a video soon.
+[Here's a video of it in action.](https://www.youtube.com/watch?v=l7gIm8AVG_c)
 
 # How it works
 The algorithm is based on some article I found many years ago, unfortunately I lost the link to it. If anyone knows where it is, let me know. The idea is as follows:
